@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/textView2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:background="@drawable/bt"
+                android:gravity="center"
+                android:padding="5dp"
+                android:text="Powered By মরিচিকা\10 Copyright ©2020\10APP Name\10সকল ধরনের সেরা এস এম এস-২০২০\10\10 All Rights Reserved\10 If you have any complains regarding the content of this app; kindly email me. I must solve it instantly.\10 Any suggestions would be highly appreciated about this app.\10\10 My email:jakariaka1999@gmail.com.\10\10Thanks all."
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:textColor="#b1f7ee"
+                android:textSize="30dp"
+                android:textStyle="bold" />
+        </LinearLayout>
+    </ScrollView>
+</RelativeLayout>

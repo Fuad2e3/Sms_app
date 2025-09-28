@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@android:id/background" android:drawable="@drawable/abc_cab_background_internal_bg"/>
+    <item android:id="@android:id/secondaryProgress" android:drawable="@drawable/abc_btn_radio_material"/>
+    <item android:id="@android:id/progress">
+        <bitmap android:src="@drawable/abc_item_background_holo_dark"/>
+    </item>
+</layer-list>
