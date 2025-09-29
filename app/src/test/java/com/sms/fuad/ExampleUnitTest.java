@@ -1,4 +1,4 @@
-package com.example.myapplication;
+package com.sms.fuad;
 
 import org.junit.Test;
 

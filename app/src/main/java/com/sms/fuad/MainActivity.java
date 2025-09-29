@@ -1,23 +1,17 @@
-package com.example.myapplication;
+package com.sms.fuad;
 
-import static com.example.myapplication.R.id.id_about;
+import static com.sms.fuad.R.id.id_about;
 
-import android.annotation.SuppressLint;
 import android.content.Intent;
-import android.net.Uri;
 import android.os.Bundle;
 import android.view.Menu;
-import android.view.MenuItem;
 import android.view.View;
 import android.widget.Button;
 
-import androidx.activity.EdgeToEdge;
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.appcompat.widget.Toolbar;
-import androidx.core.graphics.Insets;
-import androidx.core.view.ViewCompat;
-import androidx.core.view.WindowInsetsCompat;
-    public class MainActivity extends AppCompatActivity {
+
+public class MainActivity extends AppCompatActivity {
 
 
             /*    AdView adView;*/
